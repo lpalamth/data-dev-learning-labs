@@ -5,7 +5,8 @@
     "time": "30",
     "tags": [
               {"title": "data"}, 
-              {"title": "DLP"}
+              {"title": "DLP"},
+              {"title": "Intermediate"}
             ],
     "files": [
                {"title": "1.md"}

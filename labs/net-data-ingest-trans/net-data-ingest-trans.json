@@ -11,7 +11,7 @@
         "title": "HDFS"
     }, {
         "title": "Kafka"
-    }],
+    }, {"title": "Intermediate"}],
     "files": [{
         "title": "1.md"
     }, {
