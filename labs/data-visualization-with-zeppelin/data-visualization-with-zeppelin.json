@@ -1,0 +1,14 @@
+{
+  "labId": "data-visualization-with-zeppelin",
+  "title": "Interactively Static Data Explore using Zeppelin",
+  "slug": "Learn how data engineers, data analysts and data scientists can be more productive",
+  "time": 30,
+  "tags": [
+    {"title": "data"},
+    {"title": "DLP"}
+  ],
+  "files": [
+    {"title": "1.md"}
+  ],
+  "active": true
+}
