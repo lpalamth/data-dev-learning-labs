@@ -2,7 +2,7 @@
   "labId": "video-analytics-spark-streaming",
   "title": "Video Analytics Using Spark Streaming",
   "slug": "Learn how to integrate SparkStreaming with Kafka",
-  "time": 10,
+  "time": 30,
   "tags": [
     {"title": "data"},
     {"title": "DLP"},
