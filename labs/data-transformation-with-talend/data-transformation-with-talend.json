@@ -1,0 +1,14 @@
+{
+  "labId": "data-transformation-with-talend",
+  "title": "Transformation with Talend",
+  "slug": "Learn how ETL process can work from DLP platform",
+  "time": 30,
+  "tags": [
+    {"title": "data"},
+    {"title": "DLP"}
+  ],
+  "files": [
+    {"title": "1.md"}
+  ],
+  "active": true
+}
