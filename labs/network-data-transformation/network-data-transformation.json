@@ -1,0 +1,27 @@
+{
+    "labId": "network-data-transformation",
+    "title": "Network Data Transformation",
+    "slug": "Learn how you can have network data flow from a local network through Kafka in HDFS and transform it. ",
+    "time": "30",
+    "tags": [{
+        "title": "data"
+    }, {
+        "title": "DLP"
+    }, {
+        "title": "HDFS"
+    }, {
+        "title": "Kafka"
+    }, {"title": "Intermediate"}],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    }, {
+        "title": "3.md"
+    }],
+    "authors": [{
+        "name": "Ashley Roach",
+        "email": "asroach@cisco.com"
+    }],
+    "active": true
+}
