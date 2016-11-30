@@ -1,0 +1,17 @@
+{
+    "labId": “An-Introduction-to-Hadoop-EcoSystem”,
+    "title": “An Introduction to Hadoop EcoSystem“,
+    "slug": “An Introduction to Hadoop EcoSystem”,
+    "time": "30",
+    "tags": [
+              {"title": "data"}, 
+              {"title": "DLP"}
+            ],
+    "files": [
+               {"title": "1.md"}
+             ],
+    "authors": [
+                 {"name": "","email": ""}
+               ],
+    "active": true
+}
